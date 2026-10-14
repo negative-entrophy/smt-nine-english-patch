@@ -4,7 +4,7 @@ A fan translation of *Shin Megami Tensei NINE* (Atlus, Xbox, 2002), which was on
 The patcher turns your own copy of the Japanese game into an English one. It contains no game data: only the
 differences between the original files and the translated ones.
 
-**Status: complete draft.** All of the game's text has a translation, but it hasn't had a full review or a
+**Status: complete translation, fully playable.** All of the game's text has a translation, but it hasn't had a full review or a
 complete playthrough yet. Expect some awkward lines, text that runs a little long in places, and the odd bug.
 The version is the code in the patcher's file name and window title.
 
