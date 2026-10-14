@@ -8,6 +8,14 @@ differences between the original files and the translated ones.
 complete playthrough of all routes yet. Expect some awkward lines, text that runs a little long in places, and the odd bug.
 The version is the code in the patcher's file name and window title.
 
+## Screenshots
+
+| | |
+|---|---|
+| [![Title menu](screenshots/01-title.png)](screenshots/01-title.png) | [![Bureau Command Center](screenshots/05-command-center.png)](screenshots/05-command-center.png) |
+| [![Field menu in Shinjuku](screenshots/03-field-menu.png)](screenshots/03-field-menu.png) | [![Demon negotiation](screenshots/04-negotiation.png)](screenshots/04-negotiation.png) |
+| [![Demon status and resistances](screenshots/02-demon-status.png)](screenshots/02-demon-status.png) | |
+
 ## What is translated
 
 - **The whole story, on both routes.** Male and female protagonist routes, including the event scenes and the
